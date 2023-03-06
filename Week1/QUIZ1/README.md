@@ -94,3 +94,8 @@
 - [ ] It is strictly more powerful than a Convolutional Neural Network (CNN).
 - [x] It is applicable when the input/output is a sequence (e.g., a sequence of words).
 - [ ] RNNs represent the recurrent process of Idea->Code->Experiment->Idea->....
+
+#####  Images for cat recognition is an example of “structured” data, because it is represented as a structured array in a computer. True/False?
+    
+- [ ] True
+- [x] False
