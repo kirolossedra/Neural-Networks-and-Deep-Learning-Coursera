@@ -61,4 +61,6 @@
 - [ ] False
 - [x] True
 
+##### Which one of these plots represents a ReLU activation function? 
+- [x]  ![download](https://user-images.githubusercontent.com/59807200/223176230-9b2e8a75-65a0-49b3-a3e0-1a605f510bc0.png)
 
