@@ -32,6 +32,8 @@ because it is represented as an array in a computer. True/False?
 - [ ] • x-axis is the amount of data               • y-axis is the size of the model you train.
 
 
+##### Which of the following depicts a Sigmoid activation function?
+- [x] ![sigmoid-activation-function](https://user-images.githubusercontent.com/59807200/223168549-1e6ab60c-fd5b-438b-9214-8dd9744643f0.jpg)
 
 
 
