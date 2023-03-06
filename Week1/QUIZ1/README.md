@@ -46,3 +46,10 @@
 - [x] Interesting applications such as image recognition require large amounts of data that were not available.
 - [ ]  People were afraid of a machine rebellion.
 
+##### Which of the following best describes the role of Al in the expression "an Al-powered society"?
+- [ ] Al helps to create a more efficient way of producing energy to power industries and personal devices.
+- [x] Al is an essential ingredient in realizing tasks, in industry and in personal life.
+- [ ] Al controls the power grids for energy distribution, so all the power needed for industry and in daily life comes from Al.
+
+
+
