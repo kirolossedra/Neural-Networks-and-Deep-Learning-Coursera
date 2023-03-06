@@ -19,3 +19,8 @@ because it is represented as an array in a computer. True/False?
 - [x] Text describing size and number of pages of books.
 - [x] Images for bird recognition.
 - [ ] Information about elephants' weight, height, age, and the number of offspring.
+
+##### Assuming the trends described in the figure are accurate. The performance of a IN depends only on the size of the NN. True/False?
+
+- [ ] False
+- [x] True
