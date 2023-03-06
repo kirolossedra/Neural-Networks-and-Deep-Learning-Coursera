@@ -37,7 +37,6 @@ because it is represented as an array in a computer. True/False?
 ![sigmoid-activation-function](https://user-images.githubusercontent.com/59807200/223168549-1e6ab60c-fd5b-438b-9214-8dd9744643f0.jpg)
 
 
-##### Which of the following depicts a Rectified Linear Function ReLu
-- [x] ![The-Rectified-Linear-Unit-ReLU-activation-function-produces-0-as-an-output-when-x-0](https://user-images.githubusercontent.com/59807200/223169424-f68d765d-d881-4f3c-be0b-e486992862ff.png)
+
 
 
