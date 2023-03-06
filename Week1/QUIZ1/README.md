@@ -40,5 +40,9 @@
 - [x] False
 - [ ] True
 
-
+##### Which of the following are reasons that didn't allow Deep Learning to be developed during the '80s?
+- [x] Limited computational power.
+- [ ] The theoretical tools didn't exist during the 80's.
+- [x] Interesting applications such as image recognition require large amounts of data that were not available.
+- [ ]  People were afraid of a machine rebellion.
 
