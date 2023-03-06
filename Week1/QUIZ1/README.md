@@ -10,8 +10,9 @@
 - [ ] Creating an Al-powered society.
 
 ##### A dataset is composed of age and weight data for several people. This dataset is an example of "structured" data because it is represented as an array in a computer. True/False?
- - [x] True
  - [ ] False 
+ - [x] True
+
 
 ##### Which of the following are examples of unstructured data? Choose all that apply.
 - [x] Sound files for speech recognition.
@@ -19,7 +20,7 @@
 - [x] Images for bird recognition.
 - [ ] Information about elephants' weight, height, age, and the number of offspring.
 
-##### Assuming the trends described in the figure are accurate. The performance of a IN depends only on the size of the NN. True/False?
+##### Assuming the trends described in the figure are accurate. The performance of a NN depends only on the size of the NN. True/False?
 
 - [ ] False
 - [x] True
@@ -35,7 +36,9 @@
 - [x] 
 ![sigmoid-activation-function](https://user-images.githubusercontent.com/59807200/223168549-1e6ab60c-fd5b-438b-9214-8dd9744643f0.jpg)
 
-
+##### When experienced deep learning engineers work on a new problem, they can usually use insight from previous problems to train a good model on the first try, without needing to iterate multiple times through different models. True/False?
+- [x] False
+- [ ] True
 
 
 
