@@ -14,3 +14,8 @@ because it is represented as an array in a computer. True/False?
  - [x] True
  - [ ] False 
 
+##### Which of the following are examples of unstructured data? Choose all that apply.
+- [x] Sound files for speech recognition.
+- [x] Text describing size and number of pages of books.
+- [x] Images for bird recognition.
+- [ ] Information about elephants' weight, height, age, and the number of offspring.
