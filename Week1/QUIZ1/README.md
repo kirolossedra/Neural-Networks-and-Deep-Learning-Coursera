@@ -24,3 +24,16 @@ because it is represented as an array in a computer. True/False?
 
 - [ ] False
 - [x] True
+
+##### In this diagram which we hand-drew in the lecture, what do the horizontal axis (x-axis) and vertical axis (y-axis)
+represent. 
+- [x] • x-axis is the amount of data               • y-axis (vertical axis) is the performance of the algorithm.
+- [ ] • x-axis is the input to the algorithm       • y-axis is outputs.
+- [ ] • x-axis is the performance of the algorithm • y-axis (vertical axis) is the amount of data.
+- [ ] • x-axis is the amount of data               • y-axis is the size of the model you train.
+
+
+
+
+
+
