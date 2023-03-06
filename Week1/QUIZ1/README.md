@@ -64,3 +64,7 @@
 ##### Which one of these plots represents a ReLU activation function? 
 - [x]  ![download](https://user-images.githubusercontent.com/59807200/223176230-9b2e8a75-65a0-49b3-a3e0-1a605f510bc0.png)
 
+##### Which one of these plots represents a tanh activation function? 
+- [x] ![download (1)](https://user-images.githubusercontent.com/59807200/223176561-25f84394-1384-4b4f-bbe2-4714cbf26381.png)
+
+
