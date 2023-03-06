@@ -70,3 +70,10 @@
 ##### Which of the following depicts a logarithmic Sigmoid activation function?
 - [x] ![download (3)](https://user-images.githubusercontent.com/59807200/223177575-a8ef6e67-2997-40dd-84e9-a71d98f748fd.png)
 
+##### What does the analogy “AI is the new electricity” refer to?
+
+- [ ] AI is powering personal devices in our homes and offices, similar to electricity.
+- [ ] Through the “smart grid”, AI is delivering a new wave of electricity.
+- [ ] AI runs on computers and is thus powered by electricity, but it is letting computers do things not possible before.
+- [x] Similar to electricity starting about 100 years ago, AI is transforming multiple industries.
+
