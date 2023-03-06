@@ -57,5 +57,8 @@
 - [x] Increasing the training set size generally does not hurt an algorithm's performance, and it may help significantly.
 - [ ] Decreasing the training set size generally does not hurt an algorithm's performance, and it may help significantly.
 
+##### From the given diagram, we can deduce that Large NN models are always better than traditional learning algorithms. True/False?
+- [ ] False
+- [x] True
 
 
