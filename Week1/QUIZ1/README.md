@@ -87,3 +87,10 @@
 - [x] Faster computation can help speed up how long a team takes to iterate to a good idea. 
 - [ ] It is faster to train on a big dataset than a small dataset.
 - [x] Recent progress in deep learning algorithms has allowed us to train good models faster (even without changing the CPU/GPU hardware).
+
+#####  Why is an RNN (Recurrent Neural Network) used for machine translation, say translating English to French? (Check all that apply.)
+
+- [x] It can be trained as a supervised learning problem.
+- [ ] It is strictly more powerful than a Convolutional Neural Network (CNN).
+- [x] It is applicable when the input/output is a sequence (e.g., a sequence of words).
+- [ ] RNNs represent the recurrent process of Idea->Code->Experiment->Idea->....
