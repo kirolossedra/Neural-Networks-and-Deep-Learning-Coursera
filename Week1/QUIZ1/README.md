@@ -67,4 +67,6 @@
 ##### Which one of these plots represents a tanh activation function? 
 - [x] ![download (1)](https://user-images.githubusercontent.com/59807200/223176561-25f84394-1384-4b4f-bbe2-4714cbf26381.png)
 
+##### Which of the following depicts a logarithmic Sigmoid activation function?
+- [x] ![download (3)](https://user-images.githubusercontent.com/59807200/223177575-a8ef6e67-2997-40dd-84e9-a71d98f748fd.png)
 
