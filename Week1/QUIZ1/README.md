@@ -51,5 +51,11 @@
 - [x] Al is an essential ingredient in realizing tasks, in industry and in personal life.
 - [ ] Al controls the power grids for energy distribution, so all the power needed for industry and in daily life comes from Al.
 
+##### Assuming the trends described in the previous question's figure are accurate (and hoping you got the axis right), which of the following are true? (Check all that apply.)
+- [ ] Decreasing the size of a neural network generally does not hurt an algorithm's performance, and it may help significantly.
+- [x] Increasing the size of a neural network generally does not hurt an algorithm's performance, and it may help significantly.
+- [x] Increasing the training set size generally does not hurt an algorithm's performance, and it may help significantly.
+- [ ] Decreasing the training set size generally does not hurt an algorithm's performance, and it may help significantly.
+
 
 
